@@ -1,5 +1,8 @@
 # C-Sharp-Otopark-IKPS
- Merhabalar bugün sizlere ilk c# projem olan İKPS'yi sizlerle paylaşacağım umarım sizlere yardımı dokunur iyi kodlamalar
+--EMEĞİ GEÇENLER--
+ASAF FURKAN KARAHASAN
+FURKAN GAŞİ
+Merhabalar bugün sizlere ilk c# projem olan İKPS'yi sizlerle paylaşacağım umarım sizlere yardımı dokunur iyi kodlamalar
  
  --PROJEDEN GÖRÜNTÜLER--
  
@@ -10,3 +13,4 @@
 ![image](https://user-images.githubusercontent.com/127442030/235758693-6fef5497-6bdb-4e80-aa1d-0d4cd8a784f2.png)
 
 ![image](https://user-images.githubusercontent.com/127442030/235758748-6471fd5b-c592-4f87-91bc-2052e393c326.png)
+
